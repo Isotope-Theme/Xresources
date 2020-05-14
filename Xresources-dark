@@ -1,0 +1,26 @@
+! Isotope Theme - XResources color config
+! Arden Rasmussen (https://github.com/Isotope-Theme/xresources)
+*background:  #263238
+*foreground:  #ECEFF1
+*cursorColor: #37464F
+
+! normal
+*color0: #37464F
+*color1: #FF5252
+*color2: #5CF19E
+*color3: #FFD740
+*color4: #40C4FF
+*color5: #FF4081
+*color6: #64FCDA
+*color7: #90A4AE
+
+! bright
+*color8:  #546E7A
+*color9:  #FF8A80
+*color10: #B9F6CA
+*color11: #FFE57F
+*color12: #80D8FF
+*color13: #FF80AB
+*color14: #A7FDEB
+*color15: #CFD8DC
+! Isotope Theme - End
